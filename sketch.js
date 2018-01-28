@@ -30,7 +30,7 @@ function draw(){
         }
         if (keyCode=="32"){
             fill(0);
-            rect(0,0,500,374);
+            rect(50,50,500,374);
             blendMode(LIGHTEST);
             image(lpkidsgreen,50,50);
             image(lpkidsred,50,50);
